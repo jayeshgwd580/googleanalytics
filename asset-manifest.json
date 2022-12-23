@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/googleanalytics/static/css/main.660366a5.css",
-    "main.js": "/googleanalytics/static/js/main.fe9efab2.js",
+    "main.js": "/googleanalytics/static/js/main.9d3b87be.js",
     "index.html": "/googleanalytics/index.html",
     "main.660366a5.css.map": "/googleanalytics/static/css/main.660366a5.css.map",
-    "main.fe9efab2.js.map": "/googleanalytics/static/js/main.fe9efab2.js.map"
+    "main.9d3b87be.js.map": "/googleanalytics/static/js/main.9d3b87be.js.map"
   },
   "entrypoints": [
     "static/css/main.660366a5.css",
-    "static/js/main.fe9efab2.js"
+    "static/js/main.9d3b87be.js"
   ]
 }
